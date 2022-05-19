@@ -1,0 +1,27 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "Sample Node package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Athanasius-Gadosey/node-intro.git"
+  },
+  "keywords": [
+    "Node",
+    "project"
+  ],
+  "author": "A.J.K.G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Athanasius-Gadosey/node-intro/issues"
+  },
+  "homepage": "https://github.com/Athanasius-Gadosey/node-intro#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.17.1"
+  }
+}
